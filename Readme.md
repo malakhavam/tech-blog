@@ -5,7 +5,11 @@
    
    ## Description 
    
-   Back end for an e-commerce site to help understand the fundamental architecture of e-commerce sites.
+   CMS-style blog site similar to a Wordpress site, where developers can publish their blog posts and comment on other developers’ posts as well.
+
+   ## Link to deployed application
+
+   
    
    ## Table of Contents  
    * [Installation](#installation)
