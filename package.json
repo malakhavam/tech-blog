@@ -1,14 +1,8 @@
 {
   "name": "tech-blog",
   "version": "1.0.0",
-  "description": "",
+  "description": "[![License: MIT](https://shields.io/badge/license-MIT-green.svg)](https://opensource.org/licenses/MIT)\r    # The Tech Blog",
   "main": "server.js",
-  "dependencies": {
-    "dotenv": "^8.2.0",
-    "express": "^4.17.1",
-    "mysql2": "^2.1.0",
-    "sequelize": "^5.22.3"
-},
   "scripts": {
     "test": "jest",
     "start": "node server.js",
@@ -19,10 +13,24 @@
     "type": "git",
     "url": "git+https://github.com/malakhavam/tech-blog.git"
   },
-  "author": "",
+  "author": "malakhavam",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/malakhavam/tech-blog/issues"
   },
-  "homepage": "https://github.com/malakhavam/tech-blog#readme"
+  "homepage": "https://github.com/malakhavam/tech-blog#readme",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "connect": "^3.7.0",
+    "connect-session-sequelize": "^7.1.2",
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3",
+    "express-handlebars": "^6.0.3",
+    "express-session": "^1.17.2",
+    "jest": "^27.5.1",
+    "moment": "^2.29.1",
+    "mysql2": "^2.3.3",
+    "sequelize": "^6.17.0",
+    "session": "^0.1.0"
+  }
 }
