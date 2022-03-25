@@ -1,7 +1,7 @@
 {
   "name": "tech-blog",
   "version": "1.0.0",
-  "description": "[![License: MIT](https://shields.io/badge/license-MIT-green.svg)](https://opensource.org/licenses/MIT)\r    # The Tech Blog",
+  "description": "Tech Blog",
   "main": "server.js",
   "scripts": {
     "test": "jest",

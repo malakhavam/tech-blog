@@ -1,6 +1,7 @@
-[![License: MIT](https://shields.io/badge/license-MIT-green.svg)](https://opensource.org/licenses/MIT)
-   # The Tech Blog
+# Tech Blog
 
+[![License: MIT](https://shields.io/badge/license-MIT-green.svg)](https://opensource.org/licenses/MIT)
+   
    ## malakhavam
    
    ## Description 
