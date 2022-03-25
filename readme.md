@@ -30,7 +30,7 @@
    * Install MySQL2 with: npm install mysql2
    * Install Sequalize with: npm install sequelize
    * Install Dotenv with: npm install dotenv
-   * Install Bcrypt with: npm install bccrypt
+   * Install Bcrypt with: npm install bcrypt
    * Install Express-handlebars with: npm i express-handlebars
    * Install express-session with: npm i express-session
    * Install connect-session-sequelize: npm i connect-session-sequelize 
