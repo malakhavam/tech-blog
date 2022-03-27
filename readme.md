@@ -10,7 +10,7 @@
 
    ## Link to deployed application
 
-   
+   https://malakhava-tech-blog.herokuapp.com/
    
    ## Table of Contents  
    * [Installation](#installation)
